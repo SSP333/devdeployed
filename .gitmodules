@@ -1,0 +1,6 @@
+[submodule "devfrontend"]
+	path = devfrontend
+	url = https://github.com/SSP333/devfrontend.git
+[submodule "devbackend"]
+	path = devbackend
+	url = https://github.com/SSP333/devbackend.git
